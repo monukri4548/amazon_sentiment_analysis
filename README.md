@@ -3,8 +3,8 @@
 Sentiment Analysis on mobile phone reviews
 
 Sentiment Analysis by Monu Kumari
-Overview
 
+Overview
 This repository contains code for sentiment analysis on a dataset of mobile reviews. The dataset is downloaded from Kaggle. The code is developed using Scikit learn. It uses following algorithms:
 
     Bag of Words
