@@ -1,4 +1,4 @@
-# amazon_sentiment_analysis
+# Amazon_sentiment_analysis
 
 Sentiment Analysis on mobile phone reviews
 
